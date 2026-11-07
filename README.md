@@ -1,5 +1,22 @@
 <h3 data-importer="text" align="center">we cookin</h3>
 
+Hi, I'm Arnav. I build Python and machine learning projects and contribute to open source.
+
+My interests include ML pipelines, model evaluation, AutoML, and reproducible experiments.
+
+## Projects
+
+- [TRAJMETA](https://github.com/00FY/TRAJMETA) — trajectory-guided AutoML for tabular classification, with controlled baseline comparisons and reproducibility checks.
+- [SKILL_PASSPORT](https://github.com/00FY/SKILL_PASSPORT) — a Python/FastAPI application that compares skill claims with repository evidence.
+- [Vortexa / ActionGate](https://github.com/00FY/Vortexa) — an authorization gateway for AI-proposed actions, integrated with an ERP demonstration.
+
+## Open source contributions
+
+Pull requests I've submitted:
+
+- [sktime #11740](https://github.com/sktime/sktime/pull/11740) — validate forecasting metric inputs before NumPy broadcasting can produce incorrect scores.
+- [ArviZ-stats #549](https://github.com/arviz-devs/arviz-stats/pull/549) — support histogram reduction over all dimensions with `axis=None`.
+
 ###
 
 <div data-importer="techs" align="center">
